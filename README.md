@@ -1,11 +1,11 @@
-About r-justifyalpha
-====================
+About r-justifyalpha-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-justifyalpha-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=JustifyAlpha
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-justifyalpha-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions to justify alpha levels for statistical hypothesis tests by avoiding Lindley's paradox, or by minimizing or balancing error rates. For more information about the package please read the following: Maier & Lakens (2021) <doi:10.31234/osf.io/ts4r6>).
 
